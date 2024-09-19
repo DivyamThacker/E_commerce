@@ -1,0 +1,1 @@
+fix the bug while starting the application and then try to  add a user using talented api tester
